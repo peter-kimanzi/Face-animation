@@ -1,0 +1,11 @@
+body {
+ background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center; 	
+	overflow: hidden;
+}
+
+canvas {
+	min-height: 100vh;
+}
